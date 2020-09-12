@@ -37,13 +37,3 @@ I am a full stack web developer who has great knowledge in MERN Stack and Compet
 
 
 
-
----
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-</details>
