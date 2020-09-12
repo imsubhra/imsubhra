@@ -12,10 +12,9 @@ I am a full stack web developer who has great knowledge in MERN Stack and Compet
 <summary>🤝 <b>To connect with me</b></summary>
 
 <p align = "center">
- 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://imsubhra.github.io/)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subhra-sankha-sarma-8472b0184/) 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/SarmaSankha) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subhra-sankha-sarma-8472b0184/)
 [![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge)](https://github.com/imsubhra/imsubhra)
 
 </p>
